@@ -1,0 +1,168 @@
+Place,Country,Score,Status,Type
+1, Norway ,9.93,Full democracy,Ceremonial monarch
+2, Sweden ,9.73,Full democracy,Ceremonial monarch
+3, Iceland ,9.58,Full democracy,Parliament
+4, New Zealand ,9.26,Full democracy,Ceremonial monarch
+5, Denmark ,9.11,Full democracy,Ceremonial monarch
+6,  Switzerland ,9.09,Full democracy,Directorial
+7, Canada ,9.08,Full democracy,Ceremonial monarch
+8, Finland ,9.03,Full democracy,Parliament
+9, Australia ,9.01,Full democracy,Ceremonial monarch
+10, Netherlands ,8.92,Full democracy,Ceremonial monarch
+11, Luxembourg ,8.88,Full democracy,Ceremonial monarch
+12, Ireland ,8.72,Full democracy,Parliament
+13, Germany ,8.64,Full democracy,Parliament
+14, Austria ,8.54,Full democracy,Parliament
+15, Malta ,8.39,Full democracy,Parliament
+16, United Kingdom ,8.31,Full democracy,Ceremonial monarch
+17, Uruguay ,8.17,Full democracy,Presidential
+17, Mauritius ,8.17,Full democracy,Parliament
+19, United States ,8.11,Full democracy,Presidential
+20, Japan ,8.08,Full democracy,Ceremonial monarch
+21, South Korea ,8.06,Full democracy,Presidential
+22, Spain ,8.05,Full democracy,Ceremonial monarch
+23, France ,8.04,Full democracy,Semi-presidential
+24, Costa Rica ,8.03,Full democracy,Presidential
+25, Czech Republic ,7.94,Flawed democracy,Parliament
+26, Belgium ,7.93,Flawed democracy,Ceremonial monarch
+27, India ,7.92,Flawed democracy,Parliament
+28, Botswana ,7.87,Flawed democracy,Mixed
+29, Italy ,7.85,Flawed democracy,Parliament
+30, South Africa ,7.82,Flawed democracy,mixed
+31, Cape Verde ,7.81,Flawed democracy,Semi-presidential
+32, Chile ,7.8,Flawed democracy,Presidential
+33, Portugal ,7.79,Flawed democracy,Semi-presidential
+34, Estonia ,7.74,Flawed democracy,Parliament
+35, Taiwan ,7.65,Flawed democracy,Semi-presidential
+36, Israel ,7.63,Flawed democracy,Parliament
+37, Slovenia ,7.57,Flawed democracy,Parliament
+38, Lithuania ,7.54,Flawed democracy,Parliament
+39, Latvia ,7.48,Flawed democracy,Parliament
+40, Poland ,7.47,Flawed democracy,Parliament
+41, Greece ,7.45,Flawed democracy,Parliament
+42, Cyprus ,7.4,Flawed democracy,Presidential
+43, Jamaica ,7.39,Flawed democracy,Ceremonial monarch
+44, Brazil ,7.38,Flawed democracy,Presidential
+45, Slovakia ,7.35,Flawed democracy,Parliament
+46, Timor-Leste ,7.24,Flawed democracy,Semi-presidential
+47, Panama ,7.08,Flawed democracy,Presidential
+48, Trinidad & Tobago ,6.99,Flawed democracy,Parliament
+49, Indonesia ,6.95,Flawed democracy,Presidential
+50, Croatia ,6.93,Flawed democracy,Parliament
+51, Hungary ,6.9,Flawed democracy,Parliament
+52, Argentina ,6.84,Flawed democracy,Presidential
+53, Suriname ,6.77,Flawed democracy,Mixed
+53, Philippines ,6.77,Flawed democracy,Presidential
+55, Bulgaria ,6.73,Flawed democracy,Parliament
+56, Serbia ,6.71,Flawed democracy,Parliament
+57, Romania ,6.68,Flawed democracy,Semi-presidential
+57, Mexico ,6.68,Flawed democracy,Presidential
+59, Dominican Republic ,6.67,Flawed democracy,Presidential
+60, Lesotho ,6.66,Flawed democracy,Ceremonial monarch
+61, Mongolia ,6.62,Flawed democracy,Parliament
+62, Colombia ,6.55,Flawed democracy,Presidential
+63, Peru ,6.54,Flawed democracy,Presidential
+64, El Salvador ,6.53,Flawed democracy,Presidential
+65, Malaysia ,6.49,Flawed democracy,Ceremonial monarch
+66, Hong Kong ,6.46,Flawed democracy,Unclear
+67, Zambia ,6.39,Flawed democracy,Presidential
+68, Ghana ,6.33,Flawed democracy,Presidential
+69, Moldova ,6.32,Flawed democracy,Parliament
+70, Tunisia ,6.31,Flawed democracy,Parliament
+71, Paraguay ,6.26,Flawed democracy,Presidential
+72, Macedonia ,6.25,Flawed democracy,Parliament
+73, Namibia ,6.24,Flawed democracy,Presidential
+74, Senegal ,6.15,Flawed democracy,Semi-presidential
+75, Papua New Guinea ,6.03,Flawed democracy,Ceremonial monarch
+75, Singapore ,6.03,Flawed democracy,Parliament
+77, Montenegro ,5.94,Hybrid regime,Parliament
+78, Guyana ,5.91,Hybrid regime,Semi-presidential
+79, Ecuador ,5.87,Hybrid regime,Presidential
+80, Honduras ,5.84,Hybrid regime,Presidential
+81, Georgia ,5.82,Hybrid regime,Semi-presidential
+82, Guatemala ,5.81,Hybrid regime,Presidential
+83, Bolivia ,5.79,Hybrid regime,Presidential
+83, Mali ,5.79,Hybrid regime,Semi-presidential
+85, Bangladesh ,5.78,Hybrid regime,Parliament
+86, Tanzania ,5.77,Hybrid regime,Presidential
+87, Sri Lanka ,5.69,Hybrid regime,Semi-presidential
+88, Albania ,5.67,Hybrid regime,Parliament
+89, Malawi ,5.66,Hybrid regime,Presidential
+90, Benin ,5.65,Hybrid regime,Presidential
+91, Fiji ,5.61,Hybrid regime,Parliament
+92, Ukraine ,5.42,Hybrid regime,Semi-presidential
+93, Thailand ,5.39,Hybrid regime,Ceremonial monarch
+94, Nicaragua ,5.32,Hybrid regime,Presidential
+95, Kyrgyzstan ,5.24,Hybrid regime,Parliament
+96, Uganda ,5.22,Hybrid regime,Presidential
+97, Kenya ,5.13,Hybrid regime,Presidential
+98, Turkey ,5.12,Hybrid regime,Parliament
+98, Lebanon ,5.12,Hybrid regime,Parliament
+100, Venezuela ,5.07,Hybrid regime,Presidential
+101, Liberia ,4.95,Hybrid regime,Presidential
+102, Bhutan ,4.87,Hybrid regime,Active monarch
+103, Bosnia & Herzegovina ,4.78,Hybrid regime,Parliament
+103, Cambodia ,4.78,Hybrid regime,Ceremonial monarch
+105,   Nepal ,4.77,Hybrid regime,Parliament
+106, Palestinian Authority ,4.72,Hybrid regime,Semi-presidential
+107, Mozambique ,4.66,Hybrid regime,Presidential
+108, Pakistan ,4.64,Hybrid regime,Parliament
+109, Sierra Leone ,4.56,Hybrid regime,Presidential
+110, Madagascar ,4.42,Hybrid regime,Semi-presidential
+111, Iraq ,4.23,Hybrid regime,Parliament
+112, Mauritania ,4.17,Hybrid regime,Semi-presidential
+113, Armenia ,4.13,Hybrid regime,Semi-presidential
+114, Burkina Faso ,4.09,Hybrid regime,Semi-presidential
+115, Niger ,4.02,Hybrid regime,Presidential
+116, Morocco ,4,Authoritarian regime,Active monarch
+117, Algeria ,3.83,Authoritarian regime,Semi-presidential
+118, Haiti ,3.82,Authoritarian regime,Semi-presidential
+119, Libya ,3.8,Authoritarian regime,Parliament
+120, Kuwait ,3.78,Authoritarian regime,Active monarch
+121, Jordan ,3.76,Authoritarian regime,Active monarch
+121, Gabon ,3.76,Authoritarian regime,Presidential
+121, Nigeria ,3.76,Authoritarian regime,Presidential
+124, Ethiopia ,3.72,Authoritarian regime,Parliament
+125, Belarus ,3.69,Authoritarian regime,Presidential
+126, Côte d'Ivoire ,3.53,Authoritarian regime,Presidential
+127, Cuba ,3.52,Authoritarian regime,Single party
+127, Comoros ,3.52,Authoritarian regime,Presidential
+129, Togo ,3.45,Authoritarian regime,Presidential
+130, Vietnam ,3.41,Authoritarian regime,Single party
+130, Cameroon ,3.41,Authoritarian regime,Presidential
+132, Russia ,3.39,Authoritarian regime,Semi-presidential
+133, Angola ,3.35,Authoritarian regime,Presidential
+134, Burundi ,3.33,Authoritarian regime,Presidential
+135, Rwanda ,3.25,Authoritarian regime,Presidential
+136, Qatar ,3.18,Authoritarian regime,Absolute monarch
+137, Kazakhstan ,3.17,Authoritarian regime,Presidential
+138, Egypt ,3.16,Authoritarian regime,Transitional
+139, Oman ,3.15,Authoritarian regime,Absolute monarch
+140, Swaziland ,3.09,Authoritarian regime,Absolute monarch
+141, Burma ,3.05,Authoritarian regime,Presidential
+141, The Gambia ,3.05,Authoritarian regime,Presidential
+143, Guinea ,3.01,Authoritarian regime,Presidential
+144, China ,3,Authoritarian regime,Single party
+145, Djibouti ,2.99,Authoritarian regime,Semi-presidential
+146, Republic of the Congo ,2.89,Authoritarian regime,Presidential
+147, Bahrain ,2.87,Authoritarian regime,Active monarch
+148, Azerbaijan ,2.83,Authoritarian regime,Presidential
+149, Yemen ,2.79,Authoritarian regime,Presidential
+150, Zimbabwe ,2.78,Authoritarian regime,Presidential
+151, Afghanistan ,2.77,Authoritarian regime,Presidential
+152, United Arab Emirates ,2.64,Authoritarian regime,Active monarch
+153, Sudan ,2.54,Authoritarian regime,Presidential
+154, Uzbekistan ,2.45,Authoritarian regime,Presidential
+155, Eritrea ,2.44,Authoritarian regime,Transitional
+156, Tajikistan ,2.37,Authoritarian regime,Semi-presidential
+157, Laos ,2.21,Authoritarian regime,Single party
+158, Iran ,1.98,Authoritarian regime,Theocracy
+159, Guinea-Bissau ,1.93,Authoritarian regime,Semi-presidential
+160, Turkmenistan ,1.83,Authoritarian regime,Presidential
+161, Saudi Arabia ,1.82,Authoritarian regime,Absolute monarch
+162, Democratic Republic of the Congo ,1.75,Authoritarian regime,Semi-presidential
+163, Syria ,1.74,Authoritarian regime,Semi-presidential
+164, Equatorial Guinea ,1.66,Authoritarian regime,Presidential
+165, Chad ,1.5,Authoritarian regime,Presidential
+166, Central African Republic ,1.49,Authoritarian regime,Presidential
+167, North Korea ,1.08,Authoritarian regime,Single party
